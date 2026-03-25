@@ -1,0 +1,16 @@
+Cableado de la pantalla OLED en el video.
+
+ESP32 ------ OLED SS1306/1315
+
+PIN -- GND ------ GND
+
+PIN 12 -- G12 ------ VDD
+
+PIN 27 -- G27 ------ SDA
+
+PIN 14 -- G14 ------ SCL
+
+Conexión led.
+
+PIN 26 -- G26 LED + 
+PIN 25 -- G25 LED -
