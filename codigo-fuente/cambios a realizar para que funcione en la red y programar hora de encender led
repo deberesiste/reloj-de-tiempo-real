@@ -1,1 +1,6 @@
-cambios que se debe realizar
+const char* ssid       = "Red Wifi";      // Set the SSID of your Wifi Network
+const char* password   = "Constraseña red wifi";      // Set the password of your Wifi Network
+
+Hora y Minutos de encender el led
+if(hour == 19){
+       if(min == 35){
